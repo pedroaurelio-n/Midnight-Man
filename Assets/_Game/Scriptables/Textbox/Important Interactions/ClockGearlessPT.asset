@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 506a03c6fef84084e9ad1c8dbb7b0309, type: 3}
+  m_Name: ClockGearlessPT
+  m_EditorClassIdentifier: 
+  TextSequence:
+  - CharacterName: Oliver
+    CharacterPortrait: {fileID: 21300000, guid: 9981ef22ed66eda4a8573806c0d1f949, type: 3}
+    hasAction: 0
+    ActivateEffect: {fileID: 0}
+    TextList:
+    - "Essa estante possui alguns livros e revistas, mas tem tamb\xE9m o rel\xF3gio
+      favorito do papai."
+    - "N\xE3o sei exatamente qu\xE3o antigo ele \xE9, mas lembro dele desde minhas
+      primeiras lembran\xE7as."
+    - "Papai disse que algumas partes est\xE3o quebradas. Por isso ele n\xE3o est\xE1
+      funcionando agora."
+    - "Parece que tem algo dentro, mas n\xE3o consigo abrir."

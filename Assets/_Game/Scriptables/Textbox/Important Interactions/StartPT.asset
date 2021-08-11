@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 506a03c6fef84084e9ad1c8dbb7b0309, type: 3}
+  m_Name: StartPT
+  m_EditorClassIdentifier: 
+  TextSequence:
+  - CharacterName: Oliver
+    CharacterPortrait: {fileID: 21300000, guid: 9981ef22ed66eda4a8573806c0d1f949, type: 3}
+    hasAction: 0
+    ActivateEffect: {fileID: 0}
+    TextList:
+    - "Estou come\xE7ando a me arrepender da ideia de fazer um ritual ..."
+    - "Eu li em algum lugar que um c\xEDrculo de sal pode me proteger de esp\xEDritos
+      malignos."
+    - 'Acho que posso encontrar sal grosso na dispensa da cozinha. '
+    - "Eu preciso encontrar um caminho at\xE9 l\xE1, mas minha vela se apagou."
+    - "Eu deveria procurar por uma caixa de palitos de f\xF3sforo."
+    - Na sala de estar no final do corredor deve ter uma.

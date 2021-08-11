@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33cbb030df7b43c469400abc6fbb835c, type: 3}
+  m_Name: Hammer
+  m_EditorClassIdentifier: 
+  Name:
+  - Hammer
+  - Martelo
+  Description:
+  - Heavy and sturdy. Can be used to break weak things.
+  - "Pesado e robusto. Pode ser usado para quebrar coisas fr\xE1geis."
+  Sprite: {fileID: 21300000, guid: d1546c6e1d1ba0b4f81bc8724dab45a0, type: 3}
+  isUsable: 1
+  UseItem: {fileID: 2758466442557339350, guid: 6701a63a90c114b4994ffc63ce58d194, type: 3}

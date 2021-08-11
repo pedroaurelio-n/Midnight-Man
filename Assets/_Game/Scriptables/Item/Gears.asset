@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33cbb030df7b43c469400abc6fbb835c, type: 3}
+  m_Name: Gears
+  m_EditorClassIdentifier: 
+  Name:
+  - Gears
+  - Engrenagens
+  Description:
+  - Scrap gears. Can be used for repairs.
+  - Partes soltas. Podem ser usadas para reparos.
+  Sprite: {fileID: 21300000, guid: 2c2bb7680058e6e4caa28ed97b5905b6, type: 3}
+  isUsable: 1
+  UseItem: {fileID: 2758466442557339350, guid: 70965bef1b549334882aa53de1a535cf, type: 3}

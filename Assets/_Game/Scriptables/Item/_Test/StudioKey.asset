@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33cbb030df7b43c469400abc6fbb835c, type: 3}
+  m_Name: StudioKey
+  m_EditorClassIdentifier: 
+  Name: Studio Key
+  Description: This key opens the Studio door.
+  Sprite: {fileID: 21300000, guid: a85c3250d882bdb4da68bff21ef88f15, type: 3}
+  isUsable: 1
+  UseItem: {fileID: 2758466442557339350, guid: af7715f92ee347b43b29923239662d26, type: 3}

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 506a03c6fef84084e9ad1c8dbb7b0309, type: 3}
+  m_Name: Test2
+  m_EditorClassIdentifier: 
+  TextSequence:
+  - CharacterName: 
+    CharacterPortrait: {fileID: 0}
+    hasAction: 1
+    ActivateEffect: {fileID: 2758466442557339350, guid: 414e7f64b4947ab4b9caaa21d35cacd3, type: 3}
+    TextList:
+    - Activate lever?
+  - CharacterName: Arrow
+    CharacterPortrait: {fileID: 21300000, guid: a73b1e37e26571241a08c00046b159ac, type: 3}
+    hasAction: 0
+    ActivateEffect: {fileID: 2758466442557339350, guid: 414e7f64b4947ab4b9caaa21d35cacd3, type: 3}
+    TextList:
+    - Seems like something moved in the other room.
